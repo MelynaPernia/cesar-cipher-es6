@@ -1,0 +1,11 @@
+body {
+  height: 100vh;
+  background: url('../assets/images/img-fondo.jpg');
+  background-size: cover;
+}
+form {
+  box-sizing: border-box;
+  background:rgba(255, 255, 255, 0.8);
+  padding: 5vh!important;
+  border-radius: 5px;
+}
