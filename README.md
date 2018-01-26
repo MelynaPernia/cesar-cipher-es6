@@ -3,7 +3,7 @@
 
 #### 1. Objetivo:
 
-Cambiar el proyecto de "cifrado César" elaborado en javascript 5 a ES6.  
+Cambiar el proyecto de "cifrado César" elaborado en javascript ES5 a la nueva versión ES6.  
 
 #### 2. Descripción:
 
@@ -11,7 +11,7 @@ Cambiar el proyecto de "cifrado César" elaborado en javascript 5 a ES6.
 
 ![Sin titulo](assets/docs/cifrado-cesar.png)
 
-- En el spint 1 se elaboró el proyecto "cifrado César" con ES5 pero ahora se utilizaremos la versión ES6 de javascript, para ello se tomo encuenta los siguientes conceptos:
+- En el spint 1 se elaboró el proyecto "cifrado César" con ES5, pero ahora migraremos utilizando la nueva versión ES6 de javascript, para ello se tuvo encuenta los siguientes conceptos:
 
 | N°| Descripción| ES5 | ES6 |
 | ---------- | ---------- | ---------- | ---------- |
